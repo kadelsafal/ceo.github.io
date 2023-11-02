@@ -113,6 +113,7 @@ h1.text{
     line-height: 40px; 
     letter-spacing: 1.20px; 
     word-wrap: break-word;
+    cursor:pointer;
 }
 .hamburger{
     display: none;
