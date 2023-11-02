@@ -79,6 +79,7 @@ h1.text{
     flex-direction: row;
     padding: 20px;
     gap: 10px;
+    cursor:pointer;
 }
     
 .btn1{
