@@ -281,7 +281,7 @@ h1.text{
 
 .menubar ul{
     position: fixed;
-    top: 150px;
+    top: 170px;
     align-items: flex-start;
     display: flex;
     justify-content: space-between;
